@@ -47,9 +47,9 @@ public class Installer {
 
         try {
             WinRegistry.writeStringValue(
-                    WinRegistry.HKEY_CURRENT_USER,
-                    "SOFTWARE\\JetBrains\\IntelliJ IDEA",
-                    "Roman_Horilyi",
+                    WinRegistry.HKEY_CURRENT_USER,                // HKEY
+                    "SOFTWARE\\JetBrains\\IntelliJ IDEA",         // Key
+                    "Roman_Horilyi",                              // ValueKey
                     String.valueOf(signature.hashCode()));
         } catch (IllegalAccessException | InvocationTargetException e) {
             e.printStackTrace();
