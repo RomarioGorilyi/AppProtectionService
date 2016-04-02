@@ -12,7 +12,7 @@ import java.nio.channels.FileChannel;
  * Created by Roman Horilyi on 01.04.2016.
  */
 public class Installer {
-    private static final String LAB_1_JAR_PATH = "Lab1.jar";
+    private static final String LAB_1_JAR_PATH = "/src/main/resources/Lab1.jar";
 
     public static void writeSignature(){
         String username = System.getProperty("user.name");
