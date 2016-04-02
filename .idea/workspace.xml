@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d25dcdef-4767-4562-bd43-b366379031ce" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ua/ipt/main/Installer.java" afterPath="$PROJECT_DIR$/src/main/java/ua/ipt/main/Installer.java" />
     </list>
     <ignored path="Lab2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -790,7 +789,7 @@
       <option name="number" value="Default" />
       <updated>1459461838057</updated>
       <workItem from="1459461840166" duration="18440000" />
-      <workItem from="1459612397853" duration="1330000" />
+      <workItem from="1459612397853" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="v. 2.0">
       <created>1459614844831</created>
@@ -798,11 +797,17 @@
       <option name="project" value="LOCAL" />
       <updated>1459614844831</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v. 1.0">
+      <created>1459614976147</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1459614976147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19770000" />
+    <option name="totallyTimeSpent" value="19783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
@@ -846,7 +851,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v. 2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="v. 2.0" />
+    <MESSAGE value="v. 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v. 1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
