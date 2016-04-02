@@ -38,8 +38,8 @@ public class Installer {
         // IMPORTANT: after creating this new key comment the code below !!!
         try {
             WinRegistry.createKey(
-                    WinRegistry.HKEY_CURRENT_USER,              // HKEY
-                    "SOFTWARE\\JetBrains\\IntelliJ IDEA");      // Key
+                    WinRegistry.HKEY_CURRENT_USER,                // HKEY
+                    "SOFTWARE\\JetBrains\\IntelliJ IDEA");        // Key
         } catch (IllegalAccessException | InvocationTargetException e) {
             e.printStackTrace();
         }
